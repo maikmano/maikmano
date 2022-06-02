@@ -23,7 +23,7 @@ Olá mundo, me chamo Maik e sou desenvolvedor Full Stack e certificado na metodo
 <div>
 <a href="https://www.linkedin.com/in/maik-diego-27318b216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>         
-          
+<br> 
 <div>
 <a href="https://github.com/maikmano">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikmano&layout=compact&langs_count=7&theme=dracula"/>
