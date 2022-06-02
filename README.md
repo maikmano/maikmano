@@ -1,6 +1,6 @@
 ## 🚀 Hello World, sou o Maik 👋
 
-Olá mundo, me chamo Maik e sou desenvolvedor Full Stack e certificado na metodologia SCRUM. Curso Sistemas da Informação na Faculdade Nove de Julho (Uninove), estou sempre pronto para enfrentar novos desafios e o mais importante, amo tecnologia e programação
+Olá mundo, me chamo Maik e sou desenvolvedor Full Stack e certificado na metodologia SCRUM. Curso Sistemas da Informação na Faculdade Nove de Julho (UNINOVE), estou sempre pronto para enfrentar novos desafios e o mais importante, amo tecnologia e programação
 
 ### 🛠️ Ferramentas e Tecnologias
 
@@ -30,4 +30,3 @@ Olá mundo, me chamo Maik e sou desenvolvedor Full Stack e certificado na metodo
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maikmano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
