@@ -1,16 +1,33 @@
-### Hi there 👋
+## 🚀 Hello World, sou o Maik 👋
 
-<!--
-**maikmano/maikmano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá mundo, me chamo Maik e sou desenvolvedor Full Stack e certificado na metodologia SCRUM. Curso Sistemas da Informação na Faculdade Nove de Julho (Uninove), estou sempre pronto para enfrentar novos desafios e o mais importante, amo tecnologia e programação
 
-Here are some ideas to get you started:
+### 🛠️ Ferramentas e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+</div>
+
+### 📚 Estou aprendendo
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+</div>  
+
+### 👤Contatos:
+
+<div>
+<a href="https://www.linkedin.com/in/maik-diego-27318b216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>         
+          
+<div>
+<a href="https://github.com/maikmano">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikmano&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maikmano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Snake animation](https://github.com/maikmano/maikmano/blob/output/github-contribution-grid-snake.svg)
